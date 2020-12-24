@@ -42,6 +42,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="zt &lt;a1571976198@outlook.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m2i2TXJIw0GeNLYyuCtxcqabUe" />
@@ -53,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
@@ -211,6 +217,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="543" y="252" key="#PSD/0.0.2560.1040@0.0.2560.1040" timestamp="1608698971763" />
+    <state x="1002" y="51" key="CommitChangelistDialog2" timestamp="1608796050801">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1002" y="51" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1608796050801" />
     <state x="1031" y="273" key="FileChooserDialogImpl" timestamp="1608795916390">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
