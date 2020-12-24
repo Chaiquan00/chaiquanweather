@@ -6,7 +6,16 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b820d3f1-aa2a-44ca-8a80-6a98de41afda" name="Default Changelist" comment="" />
+    <list default="true" id="b820d3f1-aa2a-44ca-8a80-6a98de41afda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1m2i2TXJIw0GeNLYyuCtxcqabUe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,11 +53,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-nodpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.20812182" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
   </component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Default Config" />
@@ -178,7 +190,12 @@
       <option name="presentableId" value="Default" />
       <updated>1608697879639</updated>
     </task>
-    <servers />
+    <servers>
+      <GitHub url="https://github.com">
+        <option name="repoAuthor" value="Chaiquan00" />
+        <option name="repoName" value="chaiquanweather0" />
+      </GitHub>
+    </servers>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -186,10 +203,26 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="126" y="149" key="#HTTP_Proxy" timestamp="1608795694875">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="126" y="149" key="#HTTP_Proxy/0.0.2560.1040@0.0.2560.1040" timestamp="1608795694875" />
     <state x="543" y="252" key="#PSD" timestamp="1608698971763">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="543" y="252" key="#PSD/0.0.2560.1040@0.0.2560.1040" timestamp="1608698971763" />
+    <state x="1031" y="273" key="FileChooserDialogImpl" timestamp="1608795916390">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1031" y="273" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1608795916390" />
+    <state x="1083" y="426" key="Github.CreateGistDialog" timestamp="1608795824382">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1083" y="426" key="Github.CreateGistDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1608795824382" />
+    <state x="1209" y="490" key="Github.ShareDialog" timestamp="1608795862513">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1209" y="490" key="Github.ShareDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1608795862513" />
     <state width="1234" height="214" key="GridCell.Tab.0.bottom" timestamp="1608787073874">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -222,14 +255,14 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="214" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1608787073874" />
-    <state x="35" y="133" key="SettingsEditor" timestamp="1608789519621">
+    <state x="35" y="133" key="SettingsEditor" timestamp="1608795708755">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="35" y="133" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1608789519621" />
-    <state x="303" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1608783468831">
+    <state x="35" y="133" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1608795708755" />
+    <state x="303" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1608794879489">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="303" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1608783468831" />
+    <state x="303" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1608794879489" />
     <state x="243" y="46" width="807" height="948" key="find.popup" timestamp="1608706487505">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -238,5 +271,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="310" y="229" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1608702874360" />
+    <state x="1178" y="391" key="svn.repositoryBrowser" timestamp="1608795834324">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1178" y="391" key="svn.repositoryBrowser/0.0.2560.1040@0.0.2560.1040" timestamp="1608795834324" />
   </component>
 </project>
