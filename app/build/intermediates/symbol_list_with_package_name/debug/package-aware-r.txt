@@ -643,6 +643,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
 layout activity_weather
+layout activity_welcome
 layout aqi
 layout choose_area
 layout forecast

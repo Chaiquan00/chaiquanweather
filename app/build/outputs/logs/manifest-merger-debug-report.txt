@@ -69,10 +69,10 @@ MERGED from [com.android.support:support-compat:24.2.1] D:\Program Files (x86)\G
 		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:13:9-40
 	android:name
 		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:8:9-54
-activity#com.example.microstrong.coolweather.MainActivity
+activity#com.example.microstrong.chaiquanweather.WelcomeActivity
 ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:14:19-89
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
@@ -83,18 +83,22 @@ category#android.intent.category.LAUNCHER
 ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.example.microstrong.coolweather.WeatherActivity
-ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:22:9-53
+activity#com.example.microstrong.chaiquanweather.MainActivity
+ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:21:9-89
 	android:name
-		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:22:19-50
-service#com.example.microstrong.coolweather.service.AutoUpdateService
+		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:21:19-86
+activity#com.example.microstrong.chaiquanweather.WeatherActivity
+ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:22:9-92
+	android:name
+		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:22:19-89
+service#com.example.microstrong.chaiquanweather.service.AutoUpdateService
 ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:24:9-27:39
 	android:enabled
 		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:26:13-35
 	android:exported
 		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:25:13-54
+		ADDED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml:25:13-93
 uses-sdk
 INJECTED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from G:\Android Project\chaiquanweather-master\chaiquanweather-master\app\src\main\AndroidManifest.xml

@@ -20,17 +20,18 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.microstrong.coolweather.MainActivity" >
+        <activity android:name="com.example.microstrong.chaiquanweather.WelcomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.microstrong.coolweather.WeatherActivity" />
+        <activity android:name="com.example.microstrong.chaiquanweather.MainActivity" />
+        <activity android:name="com.example.microstrong.chaiquanweather.WeatherActivity" />
 
         <service
-            android:name="com.example.microstrong.coolweather.service.AutoUpdateService"
+            android:name="com.example.microstrong.chaiquanweather.service.AutoUpdateService"
             android:enabled="true"
             android:exported="true" />
     </application>

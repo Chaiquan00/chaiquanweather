@@ -16,6 +16,10 @@
         "source": "G:\\Android Project\\chaiquanweather-master\\chaiquanweather-master\\app\\src\\main\\res\\layout\\now.xml"
     },
     {
+        "merged": "G:\\Android Project\\chaiquanweather-master\\chaiquanweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "G:\\Android Project\\chaiquanweather-master\\chaiquanweather-master\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
         "merged": "G:\\Android Project\\chaiquanweather-master\\chaiquanweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_suggestion.xml.flat",
         "source": "G:\\Android Project\\chaiquanweather-master\\chaiquanweather-master\\app\\src\\main\\res\\layout\\suggestion.xml"
     },

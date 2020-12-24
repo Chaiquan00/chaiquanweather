@@ -1,4 +1,4 @@
-#Wed Dec 23 12:59:01 CST 2020
+#Thu Dec 24 13:17:53 CST 2020
 base.0=G\:\\Android Project\\chaiquanweather-master\\chaiquanweather-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
