@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CoolWeather.iml" filepath="$PROJECT_DIR$/CoolWeather.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chaiquanweather-master.iml" filepath="$PROJECT_DIR$/.idea/modules/chaiquanweather-master.iml" group="chaiquanweather-master" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chaiquanweather-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chaiquanweather-master-app.iml" group="chaiquanweather-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chaiquanweather-master.iml" filepath="$PROJECT_DIR$/.idea/modules/chaiquanweather-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chaiquanweather-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chaiquanweather-master.app.iml" />
     </modules>
   </component>
 </project>
