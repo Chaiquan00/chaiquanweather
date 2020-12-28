@@ -6,24 +6,10 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b820d3f1-aa2a-44ca-8a80-6a98de41afda" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/chaiquanweather-master.app.iml" afterDir="false" />
+    <list default="true" id="b820d3f1-aa2a-44ca-8a80-6a98de41afda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_24_2_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_24_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_7_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_4_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_9_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/chaiquanweather-master-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/chaiquanweather-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/chaiquanweather-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +17,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3_API_29]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -92,7 +78,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="chaiquanweather-master.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -190,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608796822294</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1609160541592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609160541592</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers>
       <GitHub url="https://github.com">
         <option name="repoAuthor" value="Chaiquan00" />
@@ -218,10 +211,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="734" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1609160526324" />
-    <state x="1002" y="51" key="CommitChangelistDialog2" timestamp="1608813427658">
+    <state x="1002" y="0" key="CommitChangelistDialog2" timestamp="1609160540199">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1002" y="51" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1608813427658" />
+    <state x="1002" y="0" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1609160540199" />
     <state x="1031" y="273" key="FileChooserDialogImpl" timestamp="1608795916390">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -270,10 +263,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="35" y="133" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1608795708755" />
-    <state x="1224" y="258" key="Vcs.Push.Dialog.v2" timestamp="1608796871159">
+    <state x="1224" y="258" key="Vcs.Push.Dialog.v2" timestamp="1609160597933">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1224" y="258" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1608796871159" />
+    <state x="1224" y="258" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1609160597933" />
     <state x="303" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1608864716186">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
