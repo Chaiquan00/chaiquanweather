@@ -10,7 +10,6 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:layout_weight="0.1">
-
         <ImageView
             android:layout_width="64dp"
             android:layout_height="79dp"
@@ -25,11 +24,6 @@
             android:layout_height="wrap_content" />
     </LinearLayout>
 
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="bottom"
-        android:layout_weight="0.9"/>
+
 
 </LinearLayout>
