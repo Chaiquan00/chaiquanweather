@@ -18,6 +18,7 @@
 该软件的基本功能需求有：
 
 (1) 城市选择界面：对要显示天气预报的城市进行设置；
-
+![城市选择界面](https://raw.githubusercontent.com/Chaiquan00/chaiquanweather/master/app/src/main/res/drawable-nodpi/1.png)
 
 (2) 显示界面：通过文字和图片显示当前的天气情况，包括温度、AQI、PM2.5、生活指数、生活建议等。同时，显示界面还具有下拉刷新功能，用户每下拉一次就会触发后台更新天气数据。
+![天气显示界面](https://raw.githubusercontent.com/Chaiquan00/chaiquanweather/master/app/src/main/res/drawable-nodpi/2.png)
