@@ -4,6 +4,8 @@
 
 ###软件1932 周挺
 
+####项目地址：https://github.com/Chaiquan00/chaiquanweather
+
 ---
 
 ![](https://raw.githubusercontent.com/Chaiquan00/chaiquanweather/master/app/src/main/res/drawable-nodpi/tzylogo.png)
