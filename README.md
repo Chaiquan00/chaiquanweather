@@ -6,7 +6,7 @@
 
 ---
 
-![]https://raw.githubusercontent.com/Chaiquan00/chaiquanweather/master/app/src/main/res/drawable-nodpi/tzylogo.png
+![](https://raw.githubusercontent.com/Chaiquan00/chaiquanweather/master/app/src/main/res/drawable-nodpi/tzylogo.png)
 
 项目内容：
 本软件就是利用现有的网络快速获取网络上的天气信息并显示到手机终端上通过HTTPRequest、OkHttpClient、JSON抓取和解析等技术让用户在有网络的前提下可以随时随地查看天气。
