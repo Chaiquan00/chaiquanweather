@@ -225,12 +225,16 @@ public class ChooseAreaFragment extends Fragment {
                         @Override
                         public void run() {
                             closeProgressDialog();
-                            if ("province".equals(type)) {
-                                queryProvinces();
-                            } else if ("city".equals(type)) {
-                                queryCities();
-                            } else if ("county".equals(type)) {
-                                queryCounties();
+                            switch (type) {
+                                case "province":
+                                    queryProvinces();
+                                    break;
+                                case "city":
+                                    queryCities();
+                                    break;
+                                case "county":
+                                    queryCounties();
+                                    break;
                             }
                         }
                     });
